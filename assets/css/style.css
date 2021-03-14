@@ -121,6 +121,12 @@ h2 {
   background-color: green;
 }
 
+hr {
+  border-top: 1px solid #777777;
+  width: 100%;
+  margin: 5px 0;
+}
+
 .left-about-heading {
   width: 50%;
   float: right;
