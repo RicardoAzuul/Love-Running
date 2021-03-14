@@ -30,3 +30,6 @@ h2 {
   letter-spacing: 4px;
 }
 
+#menu li {
+  float: right;
+}
