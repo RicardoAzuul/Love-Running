@@ -11,3 +11,8 @@ body {
   font-family: Lato;
   color: #777777;
 }
+
+h2 {
+  font-family: Oswald;
+  text-transform: uppercase;
+}
