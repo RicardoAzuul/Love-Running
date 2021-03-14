@@ -23,3 +23,10 @@ h2 {
   float: left;
   font: 280%;
 }
+
+#menu {
+  font-size: 110%;
+  list-style-type: none;
+  letter-spacing: 4px;
+}
+
