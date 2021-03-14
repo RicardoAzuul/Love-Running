@@ -15,4 +15,6 @@ body {
 h2 {
   font-family: Oswald;
   text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #555555;
 }
