@@ -107,3 +107,9 @@ h2 {
   width: 33%;
   float: left;
 }
+
+#right-about {
+  padding-top: 30px;
+  width: 33%;
+  float: right;
+}
