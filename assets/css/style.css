@@ -97,3 +97,13 @@ h2 {
   right: 150px;
   position: absolute;
 }
+
+#club-ethos {
+  height: 600px;
+}
+
+#left-about {
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+}
