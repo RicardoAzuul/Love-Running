@@ -252,6 +252,17 @@ footer {
   hr {
     display: none;
   }
+
+  #running-times div {
+    width: 100%;
+    clear: both;
+    height: 150%;
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-color: #fff;
+    padding: 0;
+  }
+
 }
 
 @media screen and (max-width: 943px ) {
